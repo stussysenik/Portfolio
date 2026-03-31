@@ -1,17 +1,19 @@
-<div align="center">
-
 # Portfolio
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+Portfolio
 
-</div>
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+## About
+
+🔬 **Implementation Study** built with CSS.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/stussysenik/Portfolio.git
-cd Portfolio
-```
+*Built by [@stussysenik](https://github.com/stussysenik)*
